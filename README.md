@@ -21,6 +21,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+Projeto desenvolvido através do evento Explorer Lab da Rocketseat
+[Clique aqui para acessar](https://explorer-lab-neon-nine.vercel.app/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -39,10 +42,8 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 💜 Contato
 
-Esse projeto está sob a licença MIT.
+[LinkedIn](https://www.linkedin.com/in/diego-bonze-518225208/)
 
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+diegobonze747@gmail.com
